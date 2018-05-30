@@ -16,6 +16,7 @@ I don't use "Audio File In" in TouchDesigner.
 It is because, if I use the node, my TouchDesigner file often crash...
 So I use ["Mr.Sano's Sound To OSC patch"](https://github.com/sanokazuya0306/soundtoosc)．
 Thank you, Mr.Sano!
+However I'm going to create "My Sound To OSC patch" by Puredata.
 
 ## Summary
 I'm going to create other VJ Set.

@@ -1,7 +1,7 @@
 # TouchDesigner VJ SET
 
-## TCPSyphon
-I use "TCPSyphon".
+## [TCPSyphon](http://techlife.sg/TCPSyphon/)
+I use "[TCPSyphon](http://techlife.sg/TCPSyphon/)".
 TCPSyphon allows image data as TCP/IP on network to realize network transparency. Compared with AirPlay, credibility might be lower, however this trait is small latency especially customized for VJ.
 
 ## Processing
@@ -20,3 +20,12 @@ Thank you, Mr.Sano!
 ## Summary
 I'm going to create other VJ Set.
 Please look forward to!
+
+## Author
+Santa
+
+Twitter: [@santa_sukitoku](https://twitter.com/santa_sukitoku)
+
+Portfolio: [Santa's Portfolio](https://sukitokuportfolio.wordpress.com/portfolio/)
+
+WebSite: [好きとは言ったが得意とは言ってない](https://santasukitoku.wordpress.com/)
